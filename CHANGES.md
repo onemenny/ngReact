@@ -1,5 +1,7 @@
 # CHANGES
 
+Remove React dependency cause we want to get it from our lib
+
 ## 0.5.1
 - Updates bower version - #201 - thanks @Shuki-L
 
